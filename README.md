@@ -4,15 +4,11 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 
 
